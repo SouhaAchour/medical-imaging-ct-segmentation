@@ -56,11 +56,11 @@ The project demonstrates how classical image processing techniques can be applie
 
 ---
 
-## Data
+##  Data
 
-Large datasets are not included in this repository due to size limitations.
+Due to size limitations, the original CT dataset and intermediate results (.npy files) are not included in this repository.
 
-The project was developed using CT data stored in .mat and intermediate arrays saved in .npy format.
+The project was developed using CT scan data stored in `.mat` and `.npy` formats.
 
 ---
 
